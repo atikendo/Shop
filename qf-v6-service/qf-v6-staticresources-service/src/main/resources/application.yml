@@ -1,0 +1,18 @@
+resourcesPath: /usr/local/docker/nginx/wwwroot/qf-v6/
+imageServer: http://192.168.2.144:8888/
+dubbo:
+  application:
+    name: resources-service
+  registry:
+    address: zookeeper://192.168.2.146:2181
+  protocol:
+    port: 20885
+server:
+  port: 8085
+spring:
+  rabbitmq:
+    host: 192.168.2.143
+    port: 5672
+    username: java1906
+    password: 123456
+    virtual-host: j1906

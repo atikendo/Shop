@@ -1,0 +1,21 @@
+server:
+  port: 8087
+dubbo:
+  application:
+    name: cart-service
+  registry:
+    address: zookeeper://192.168.2.146:2181
+  protocol:
+    port: 20885
+spring:
+  redis:
+    host: 192.168.2.147
+    port: 6379
+    password: java1906
+    jedis:
+      pool:
+        max-active: 20
+  datasource:
+    url: jdbc:mysql://localhost:3306/qf-v6?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456

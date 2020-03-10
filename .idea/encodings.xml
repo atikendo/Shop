@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/qf-v6-service/qf-v6-cart-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-v6-service/qf-v6-email-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-v6-service/qf-v6-index-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-v6-service/qf-v6-product-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-v6-service/qf-v6-search-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-v6-service/qf-v6-sms-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-v6-service/qf-v6-staticresources-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-v6-service/qf-v6-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-v6-web/qf-v6-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-v6-web/qf-v6-index" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-v6-web/qf-v6-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-v6-web/qf-v6-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-v6-web/qf-v6-sso" charset="UTF-8" />
+  </component>
+</project>

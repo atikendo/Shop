@@ -1,0 +1,21 @@
+server:
+  port: 9083
+dubbo:
+  application:
+    name: sso-consumer
+  registry:
+    address: zookeeper://192.168.2.146:2181
+spring:
+  redis:
+    host: 192.168.2.147
+    port: 6379
+    password: java1906
+    jedis:
+      pool:
+        max-active: 10
+  rabbitmq:
+    host: 192.168.2.143
+    port: 5672
+    username: java1906
+    password: 123456
+    virtual-host: j1906

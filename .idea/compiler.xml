@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="qf-v6-cart" />
+        <module name="qf-v6-cart-api" />
+        <module name="qf-v6-cart-service" />
+        <module name="qf-v6-common" />
+        <module name="qf-v6-email-service" />
+        <module name="qf-v6-entity" />
+        <module name="qf-v6-index" />
+        <module name="qf-v6-index-service" />
+        <module name="qf-v6-mapper" />
+        <module name="qf-v6-product" />
+        <module name="qf-v6-product-api" />
+        <module name="qf-v6-product-service" />
+        <module name="qf-v6-product-type-api" />
+        <module name="qf-v6-resources-api" />
+        <module name="qf-v6-search" />
+        <module name="qf-v6-search-api" />
+        <module name="qf-v6-search-service" />
+        <module name="qf-v6-service" />
+        <module name="qf-v6-sms-service" />
+        <module name="qf-v6-sso" />
+        <module name="qf-v6-staticresources-service" />
+        <module name="qf-v6-user-api" />
+        <module name="qf-v6-user-service" />
+        <module name="qf-v6-web" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="qf-v6-cart" options="-parameters" />
+      <module name="qf-v6-cart-service" options="-parameters" />
+      <module name="qf-v6-email-service" options="-parameters" />
+      <module name="qf-v6-index" options="-parameters" />
+      <module name="qf-v6-index-service" options="-parameters" />
+      <module name="qf-v6-product" options="-parameters" />
+      <module name="qf-v6-product-service" options="-parameters" />
+      <module name="qf-v6-search" options="-parameters" />
+      <module name="qf-v6-search-service" options="-parameters" />
+      <module name="qf-v6-sms-service" options="-parameters" />
+      <module name="qf-v6-sso" options="-parameters" />
+      <module name="qf-v6-staticresources-service" options="-parameters" />
+      <module name="qf-v6-user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

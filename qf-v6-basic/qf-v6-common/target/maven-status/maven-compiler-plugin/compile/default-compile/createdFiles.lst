@@ -1,0 +1,10 @@
+com\qf\util\HttpClientUtils.class
+com\qf\base\IBaseDao.class
+com\qf\constant\StringConstant.class
+com\qf\dto\ResultBean.class
+com\qf\dto\TProductAddDTO.class
+com\qf\base\BaseServiceImpl.class
+com\qf\constant\CookieConstant.class
+com\qf\constant\RedisConstant.class
+com\qf\util\StringUtil.class
+com\qf\base\IBaseService.class

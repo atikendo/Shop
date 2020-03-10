@@ -1,0 +1,7 @@
+server:
+  port: 9084
+dubbo:
+  application:
+    name: search-consumer
+  registry:
+    address: zookeeper://192.168.2.146:2181
